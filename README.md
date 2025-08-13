@@ -47,4 +47,4 @@ A modern and responsive **School Management System** built with **PHP**, **MySQL
 ## ⚙️ Installation
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/school-management-system.git
+   git clone https://github.com/SaintAlaye/eskull.git
